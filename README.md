@@ -1,4 +1,4 @@
-# CPE Course Builder Agent
+# CPE Course Builder Agent - can build a course on it own
 
 5-node LangGraph pipeline that generates a complete course package from a topic, audience, and duration.
 
